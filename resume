@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>bpot.com</title>
+  <title></title>
   <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
   <link rel="stylesheet" href="http://corpuzcj6.github.io/Css.css">
 </head>
@@ -23,7 +23,7 @@
 								<dt>mobile</dt>
 								<dd>Given upon request</dd>
 								<dt>email</dt>
-								<dd><a href="mailto:cjdollente@yahoo.com?subject=feedback">cjdollente@yahoo.com</a></dd>
+								<dd><a href="mailto:cjdolente@yahoo.com?subject=feedback">cjdollente@yahoo.com</a></dd>
 								<dt>web</dt>
 								<dd><a href="#">corpuzcj6.github.io</a></dd>
 							</dl>
@@ -31,13 +31,13 @@
 						<article>
 							<div class="date-ranges">
 							    <span class="job-start">2013</span>
-							    <span class="job-end">2013</span>
+							    <span class="job-end">never</span>
 							</div>						
 							<hgroup>
 								<h1 class="job-location">kent,WA</h1>
 								<h2 class="job-title">kido</h2>														
 							</hgroup>
-							<p class="job-details">clowns unlimited.</p>
+							<p class="job-details">set up stuff for parties.</p>
 						</article>
 					</div>
 				</div>
@@ -46,21 +46,22 @@
 						<h1>Special Skills</h1>
 						<dl>
 							<dt>Language</dt>
-							<dd>english.</dd>
+							<dd>Fluent english</dd>
 							<dt>Sports</dt>
 							<dd>interests in basketball and boxing.</dd>
 							<dt>Computers</dt>
-							<dd>enjoy usin them in free time.</dd>
+							<dd>enjoy using them while free time.</dd>
 						</dl>
 					</article>
 					<article>
 						<h1>Interests</h1>
 						<ul>
-							<li>basketball</li>
 							<li>boxing</li>
+							<li>basketball</li>
 							<li>Sitting</li>
 						</ul>
 						<blockquote> TMT!
+Winston Churchill
 <!doctype html><p></p><span>mayweather</span></blockquote>
 						<p><em>References available if I had them.</em></p>						
 					</article>			
