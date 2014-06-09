@@ -1,0 +1,74 @@
+type html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>bpot.com</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" href="http://corpuzcj6.github.io/Css.css">
+</head>
+<body>
+  <div id="container">
+		<div id="inner-wrap">		
+		    <div id="main" role="main">
+				<div class="col col-one">
+					<div>
+					    <header>
+							<hgroup>							
+								<h1>cj's Resume</h1>
+								<h2></h2>
+							</hgroup>
+					    </header>						
+						<div id="contact-info">
+							<dl>
+								<dt>mobile</dt>
+								<dd>Given upon request</dd>
+								<dt>email</dt>
+								<dd><a href="mailto:cjdollente@yahoo.com?subject=feedback">cjdollente@yahoo.com</a></dd>
+								<dt>web</dt>
+								<dd><a href="#">corpuzcj6.github.io</a></dd>
+							</dl>
+						</div>							
+						<article>
+							<div class="date-ranges">
+							    <span class="job-start">2013</span>
+							    <span class="job-end">2013</span>
+							</div>						
+							<hgroup>
+								<h1 class="job-location">kent,WA</h1>
+								<h2 class="job-title">kido</h2>														
+							</hgroup>
+							<p class="job-details">clowns unlimited.</p>
+						</article>
+					</div>
+				</div>
+				<div class="col col-two">	
+					<article>
+						<h1>Special Skills</h1>
+						<dl>
+							<dt>Language</dt>
+							<dd>english.</dd>
+							<dt>Sports</dt>
+							<dd>interests in basketball and boxing.</dd>
+							<dt>Computers</dt>
+							<dd>enjoy usin them in free time.</dd>
+						</dl>
+					</article>
+					<article>
+						<h1>Interests</h1>
+						<ul>
+							<li>basketball</li>
+							<li>boxing</li>
+							<li>Sitting</li>
+						</ul>
+						<blockquote> TMT!
+<!doctype html><p></p><span>mayweather</span></blockquote>
+						<p><em>References available if I had them.</em></p>						
+					</article>			
+				</div>
+	    	</div>
+	    <footer></footer>
+		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
+	</div>
+  </div>
+</body>
+</html>
